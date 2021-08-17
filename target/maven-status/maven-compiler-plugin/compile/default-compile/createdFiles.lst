@@ -1,0 +1,6 @@
+com\natwest\project\films\persistence\domain\Films.class
+com\natwest\project\films\NatwestProjectFilmsApplication.class
+com\natwest\project\films\controller\HomePageController.class
+com\natwest\project\films\persistence\repo\FilmsRepo.class
+com\natwest\project\films\service\FilmsService.class
+com\natwest\project\films\controller\FilmsController.class
