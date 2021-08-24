@@ -1,0 +1,40 @@
+
+  main {
+     background-color: yellow; 
+  }
+
+  p {
+     color: blue; 
+  }
+
+  li {
+     color: blueviolet; 
+  }
+
+  /* img {
+    transition: transform, ease-in-out, 2s;
+  }
+
+img:hover {
+    transform: scale(2,2);
+    } */
+
+#listItem1 {
+    color: crimson;
+}
+
+#listItem2 {
+    color: darkgreen;
+}
+
+#listItem3 {
+    color: darksalmon;
+}
+
+#listItem4 {
+    color: hotpink;
+}
+
+table {
+    border: solid 2px black;
+}
